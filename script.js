@@ -1,3 +1,3 @@
 
-var yourArray=["saish",12,"true",true,"red"];
-		console.log(yourArray);
+let yourArray=["saish",12,"true",true,"red"];
+		// console.log(yourArray);
